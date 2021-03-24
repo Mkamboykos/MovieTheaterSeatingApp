@@ -1,0 +1,5 @@
+Example Output File Rows:
+R001 2
+R002 4
+R003 4
+R004 3
