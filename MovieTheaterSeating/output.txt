@@ -1,0 +1,7 @@
+Movie Reservation:
+ Name: e e
+Movie: Movies Available
+ Seat: RowsColumns
+ Date: dd/mm/yyyy
+ Time: hh:mm
+
